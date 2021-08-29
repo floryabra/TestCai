@@ -1,0 +1,16 @@
+/home/florencia/Documents/FLor/GitHubFCE/TestCai2/bin/Debug/net5.0/TestCai2
+/home/florencia/Documents/FLor/GitHubFCE/TestCai2/bin/Debug/net5.0/TestCai2.deps.json
+/home/florencia/Documents/FLor/GitHubFCE/TestCai2/bin/Debug/net5.0/TestCai2.runtimeconfig.json
+/home/florencia/Documents/FLor/GitHubFCE/TestCai2/bin/Debug/net5.0/TestCai2.runtimeconfig.dev.json
+/home/florencia/Documents/FLor/GitHubFCE/TestCai2/bin/Debug/net5.0/TestCai2.dll
+/home/florencia/Documents/FLor/GitHubFCE/TestCai2/bin/Debug/net5.0/ref/TestCai2.dll
+/home/florencia/Documents/FLor/GitHubFCE/TestCai2/bin/Debug/net5.0/TestCai2.pdb
+/home/florencia/Documents/FLor/GitHubFCE/TestCai2/obj/Debug/net5.0/TestCai2.csproj.AssemblyReference.cache
+/home/florencia/Documents/FLor/GitHubFCE/TestCai2/obj/Debug/net5.0/TestCai2.GeneratedMSBuildEditorConfig.editorconfig
+/home/florencia/Documents/FLor/GitHubFCE/TestCai2/obj/Debug/net5.0/TestCai2.AssemblyInfoInputs.cache
+/home/florencia/Documents/FLor/GitHubFCE/TestCai2/obj/Debug/net5.0/TestCai2.AssemblyInfo.cs
+/home/florencia/Documents/FLor/GitHubFCE/TestCai2/obj/Debug/net5.0/TestCai2.csproj.CoreCompileInputs.cache
+/home/florencia/Documents/FLor/GitHubFCE/TestCai2/obj/Debug/net5.0/TestCai2.dll
+/home/florencia/Documents/FLor/GitHubFCE/TestCai2/obj/Debug/net5.0/ref/TestCai2.dll
+/home/florencia/Documents/FLor/GitHubFCE/TestCai2/obj/Debug/net5.0/TestCai2.pdb
+/home/florencia/Documents/FLor/GitHubFCE/TestCai2/obj/Debug/net5.0/TestCai2.genruntimeconfig.cache
